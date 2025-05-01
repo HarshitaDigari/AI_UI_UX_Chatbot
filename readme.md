@@ -1,4 +1,4 @@
-DesignBuddy: UI/UX Design Chatbot
+DesignBuddy: UI/UX Design Chatbot ##
 DesignBuddy is a Streamlit-based chatbot that assists with UI/UX design by providing real-time advice, ideas, and feedback. It uses the Gemini API (gemini-1.5-flash) to generate concise responses for questions about design principles, tools, feedback, and ideas. This project is ideal for university students learning UI/UX design.
 Features
 
@@ -14,7 +14,7 @@ Python 3.8+: Download and install from python.org. Ensure Python and pip are add
 Verify installation:python --version
 pip --version
 
-
+###############
 
 
 Git: Optional, for cloning the project. Download from git-scm.com.
@@ -23,7 +23,7 @@ Gemini API Key: Obtain from Google AI Studio.
 Setup Instructions
 1. Clone or Download the Project (Optional)
 If using Git, clone the repository:
-git clone https://github.com/your-repo/designbuddy.git
+git clone https://github.com/HarshitaDigari/AI_UI_UX_Chatbot.git
 cd designbuddy
 
 Alternatively, download and extract the ZIP file from the repository.
